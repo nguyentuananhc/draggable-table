@@ -1,0 +1,141 @@
+@font-face {
+  font-family: 'fiintrade';
+  src:  url('fonts/fiintrade.eot?6wmd6t');
+  src:  url('fonts/fiintrade.eot?6wmd6t#iefix') format('embedded-opentype'),
+    url('fonts/fiintrade.ttf?6wmd6t') format('truetype'),
+    url('fonts/fiintrade.woff?6wmd6t') format('woff'),
+    url('fonts/fiintrade.svg?6wmd6t#fiintrade') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fiintrade' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-plus-line:before {
+  content: "\e925";
+}
+.icon-back:before {
+  content: "\e923";
+}
+.icon-next:before {
+  content: "\e924";
+}
+.icon-analytics:before {
+  content: "\e91e";
+}
+.icon-camera:before {
+  content: "\e91f";
+}
+.icon-cloud:before {
+  content: "\e920";
+}
+.icon-dollar:before {
+  content: "\e921";
+}
+.icon-folder:before {
+  content: "\e922";
+}
+.icon-bi:before {
+  content: "\e917";
+}
+.icon-caret-up:before {
+  content: "\e918";
+}
+.icon-down:before {
+  content: "\e919";
+}
+.icon-downbi:before {
+  content: "\e91a";
+}
+.icon-graph:before {
+  content: "\e91b";
+}
+.icon-up:before {
+  content: "\e91c";
+}
+.icon-upbi:before {
+  content: "\e91d";
+}
+.icon-dot:before {
+  content: "\e900";
+}
+.icon-application:before {
+  content: "\e901";
+}
+.icon-calendar:before {
+  content: "\e902";
+}
+.icon-caret:before {
+  content: "\e903";
+}
+.icon-close:before {
+  content: "\e904";
+}
+.icon-excel:before {
+  content: "\e905";
+}
+.icon-external:before {
+  content: "\e906";
+}
+.icon-fullscreen:before {
+  content: "\e907";
+}
+.icon-help:before {
+  content: "\e908";
+}
+.icon-link:before {
+  content: "\e913";
+}
+.icon-logout:before {
+  content: "\e914";
+}
+.icon-more:before {
+  content: "\e915";
+}
+.icon-notification:before {
+  content: "\e916";
+}
+.icon-plus:before {
+  content: "\e909";
+}
+.icon-refresh:before {
+  content: "\e90a";
+}
+.icon-save:before {
+  content: "\e90b";
+}
+.icon-search:before {
+  content: "\e90c";
+}
+.icon-settings:before {
+  content: "\e90d";
+}
+.icon-slide:before {
+  content: "\e90e";
+}
+.icon-star:before {
+  content: "\e90f";
+}
+.icon-stoxplus:before {
+  content: "\e910";
+  color: #1670a9;
+}
+.icon-tab:before {
+  content: "\e911";
+}
+.icon-user:before {
+  content: "\e912";
+}
